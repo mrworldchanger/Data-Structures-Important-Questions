@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 //A Program to check if strings are rotations of each other or not
 public class RotationString
 {
-    public static void main(String[] args) throws Exception
+    public static void main(String []args) throws Exception
     {
         new RotationString().run();
     }
