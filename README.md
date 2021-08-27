@@ -6,3 +6,5 @@
 
 **2. Strings**
 
+**3. Searching and Sorting**
+
