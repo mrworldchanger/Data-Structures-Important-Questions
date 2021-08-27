@@ -4,3 +4,5 @@
 **1. Arrays**
 
 **2. Strings**
+
+**3. Searching and Sorting**
